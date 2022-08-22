@@ -9,7 +9,7 @@ Quick Notes
 2. cd to change directory
 3. cd.. to move up to a file tree
 
-Git Workflow
+Git Workflow on Linux
 4. git status to check status
 5. git add <filename> to add a file to staging area
 6. git log to see entries commits
@@ -18,4 +18,7 @@ Git Workflow
 
 Push to GitHub
 9. git push or git push origin main 
+
+You're done!
+
 
