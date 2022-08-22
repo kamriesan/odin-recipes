@@ -7,7 +7,7 @@ In this part I'm  primarily learning how to use git with the linux terminal for 
 Quick Notes
 1. Make sure to be in the correct destination using pwd
 2. cd to change directory
-3. cd.. to move up to a file
+3. cd.. to move up to a file tree
 
 Git Workflow
 4. git status to check status
